@@ -1,7 +1,5 @@
 - I’m @lostinthework
-- Ik ben @verloreninhetwerk
-- I'm on a mission in Belgium and the Netherlands!
-- Ik ben op een zending in Belgiё en Nederland!
+- Ik ben op zending in Belgiё en Nederland geweest!
 
 <!---
 lostinthework/lostinthework is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
